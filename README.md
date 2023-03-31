@@ -23,7 +23,7 @@ To create the solid model from given drawing and section the solid model
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
+<img width="200" height="200" src="https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png">
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
@@ -35,10 +35,10 @@ To create the solid model from given drawing and section the solid model
 
 8.Use revolve option to convert 2D to 3D.
 
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
+<img width="200" height="200" src="https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png">
 
 ## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
+<img width="500" height="500" src="https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png">
 
 ## OUTPUT:
 ![Screenshot 2023-03-31 192818](https://user-images.githubusercontent.com/118707073/229140769-3e65d680-e247-4b08-8e4d-b27bf0b4be31.png)
